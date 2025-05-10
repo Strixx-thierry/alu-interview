@@ -32,5 +32,5 @@ def minOperations(n):
             if n > 1:
                 operations += n
             break
-
+            
     return operations
