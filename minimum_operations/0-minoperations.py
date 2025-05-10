@@ -31,5 +31,5 @@ def minOperations(n):
         if divisor > n:
             if n > 1:
                 operations += n
-            break   
+            break
     return operations
